@@ -1,0 +1,6 @@
+{
+  "CUSTOMER_ROUTER_PROMPT": {
+    "symbol_id": "customer_router",
+    "variables": ["ticket_id", "domain"]
+  }
+}
