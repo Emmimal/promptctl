@@ -6,7 +6,7 @@ A pure-Python static contract validator for prompt templates — three passes, z
 
 Most prompt engineering advice stops at getting the prompt right the first time. Nothing checks what happens the fifth time someone changes it. `promptctl` treats a prompt template the way Terraform treats an infrastructure manifest — something to validate before it's applied, not just a string.
 
-Read the full write-up on Towards Data Science → [Prompt Engineering Is Solved. Prompt Management Isn't—I Built the Missing Layer](https://towardsdatascience.com/author/emmimalp-alexander/)
+Read the full write-up on Towards Data Science → [Prompt Engineering Is Solved—Prompt Management Isn't](https://towardsdatascience.com/author/emmimalp-alexander/)
 
 ## The Problem
 
